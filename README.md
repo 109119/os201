@@ -1,9 +1,9 @@
 ## Ryan Karyadiputera (About Me)
 
-Nama: Ryan Karyadiputera
-Username: 109119
-NPM: 1806205211
-Kelas: OS C
+Nama: Ryan Karyadiputera\n
+Username: 109119\n
+NPM: 1806205211\n
+Kelas: OS C\n
 Kuliah di Universitas Indonesia Jurusan Fasilkom angkatan 2018
 
 ### Tentang Halaman Ini
