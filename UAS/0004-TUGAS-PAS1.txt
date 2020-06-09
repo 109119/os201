@@ -1,13 +1,13 @@
-Script started on Tue 09 Jun 2020 12:31:59 AM WIB
+Script started on Tue 09 Jun 2020 11:25:40 AM WIB
 ryan.karyadiputera@badak:~$ PS1="$ "
 $ echo $GitHubUser
 109119
 $ echo $PSTAMP
 TMP1="$(date +%y%m%d-%H%M%S)"; TMP2="$(echo $TMP1-$GitHubUser-${PWD##*/}|sha1sum|cut -c1-4)"; echo "$TMP1-$TMP2-${PWD##*/}/> ";
 $ eval $PSTAMP
-200609-003224-d9d3-ryan.karyadiputera/>
+200609-112559-697e-ryan.karyadiputera/>
 $ PS1="\$(eval \$PSTAMP)"
-200609-003228-c3d3-ryan.karyadiputera/> echo -e $CEKSAYA
+200609-112604-2bba-ryan.karyadiputera/> echo -e $CEKSAYA
 109119 ZCZCSRIPTSTART 200608-232753 109119
 109119 109119 200608-232813-f2ab-ryan.karyadiputera/ 200608-232813 SEQOK SUMOK f2ab2b53
 109119 109119 200608-232820-582e-ryan.karyadiputera/ 200608-232820 SEQOK SUMOK 582e4e50
@@ -15,7 +15,7 @@ $ PS1="\$(eval \$PSTAMP)"
 109119 109119 200608-232839-99ad-ryan.karyadiputera/ 200608-232839 SEQOK SUMOK 99ad954e
 109119 ZCZCSCRIPTSTOP 200608-232856 SEQOK
 
-200609-003234-9b32-ryan.karyadiputera/> echo -e $CEKSEBELA1
+200609-112614-2adb-ryan.karyadiputera/> echo -e $CEKSEBELA1
 109119 ZCZCSRIPTSTART 200603-080540 abdulazis02
 109119 abdulazis02 200603-080603-8676-abdul.azis02/ 200603-080603 SEQOK SUMOK 86768a1e
 109119 abdulazis02 200603-080613-2847-abdul.azis02/ 200603-080613 SEQOK SUMOK 28475b3c
@@ -23,15 +23,15 @@ $ PS1="\$(eval \$PSTAMP)"
 109119 abdulazis02 200603-080622-9e2d-abdul.azis02/ 200603-080622 SEQOK SUMOK 9e2dfdcd
 109119 ZCZCSCRIPTSTOP 200603-080630 SEQOK
 
-200609-003241-520a-ryan.karyadiputera/> echo -e $CEKSEBELA2
-109119 ZCZCSRIPTSTART 200604-200142 abifajri
-109119 abifajri 200604-200549-5e3d-abi.fajri/ 200604-200549 SEQOK SUMOK 5e3d7c44
-109119 abifajri 200604-200553-85b3-abi.fajri/ 200604-200553 SEQOK SUMOK 85b3bf09
-109119 abifajri 200604-200558-fe28-abi.fajri/ 200604-200558 SEQOK SUMOK fe288a0a
-109119 abifajri 200604-200609-05de-abi.fajri/ 200604-200609 SEQOK SUMOK 05deea2a
-109119 ZCZCSCRIPTSTOP 200604-200634 SEQOK
+200609-112620-78bf-ryan.karyadiputera/> echo -e $CEKSEBELA2
+109119 ZCZCSRIPTSTART 200605-162056 abdurrafiarief
+109119 abdurrafiarief 200605-162133-fe0d-abdurrafi.arief/ 200605-162133 SEQOK SUMOK fe0d8fc2
+109119 abdurrafiarief 200605-162144-2fdd-abdurrafi.arief/ 200605-162144 SEQOK SUMOK 2fddc09d
+109119 abdurrafiarief 200605-162147-f84e-abdurrafi.arief/ 200605-162147 SEQOK SUMOK f84e174a
+109119 abdurrafiarief 200605-162154-136e-abdurrafi.arief/ 200605-162154 SEQOK SUMOK 136eb019
+109119 ZCZCSCRIPTSTOP 200605-162157 SEQOK
 
-200609-003249-3c12-ryan.karyadiputera/> exit
+200609-112623-7912-ryan.karyadiputera/> exit
 exit
 
-Script done on Tue 09 Jun 2020 12:32:55 AM WIB
+Script done on Tue 09 Jun 2020 11:26:27 AM WIB
