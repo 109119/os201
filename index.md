@@ -7,7 +7,7 @@
 + Kuliah di Universitas Indonesia Jurusan Fasilkom angkatan 2018
 
 ### Tentang Halaman Ini
-Page ini merupakan salah satu pemenuhan untuk salah satu tugas dari mata kuliah OS. Page ini berisi riwayat tugas selama masa perkuliahan OS.
+Page ini merupakan salah satu pemenuhan untuk salah satu tugas dari mata kuliah OS. Page ini berisi riwayat tugas selama masa perkuliahan OS. Halaman page ini dibuat sejak Juni 2020, namun repositorynya sejak Januari 2020.
 
 ### Urls for OS
 [Urls About Operating Systems](URLs/)
